@@ -1,5 +1,5 @@
 env:
   - key: NODE_ENV
     value: production
-buildCommand: npm run build
+buildCommand: npm install
 startCommand: npm run dev
